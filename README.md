@@ -10,6 +10,15 @@ AbstractKnowledgeGraph, a systematic knowledge graph that concentrate on abstrac
 
 
 # 目前效果
+1，名词抽象路径
+
+![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/noun.png)
+2，状态词抽象路径
+
+![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/adj.png)
+3，动作抽象路径
+
+![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/verb.png)
 
 # 总结
 
