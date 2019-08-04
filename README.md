@@ -6,5 +6,13 @@ AbstractKnowledgeGraph, a systematic knowledge graph that concentrate on abstrac
 # 关于抽象知识图谱
 ![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/intro.png)
 
-# 目录介绍
+# 技术路线
+
+
+# 目前效果
+
+# 总结
+
+
+
 
