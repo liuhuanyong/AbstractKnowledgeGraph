@@ -19,29 +19,29 @@ AbstractKnowledgeGraph, a systematic knowledge graph that concentrate on abstrac
 
 4）抽象数据与抽象规则的获取挑战
 
-让机器能够达到小孩的智力，根本上需要具备抽象能力以及抽象数据基础两个条件。这是解决认知智能的一个方向之一，而目前现有的技术手段，还难以快速满足这两个条件。一方面，健全的抽象数据较难获取，抽象与概括的类型众多，既有对动作的抽象，也有对名词实体的抽象，也有对性状的抽象，抽象的角度以及抽象的粒度很难把握。另一方面，基于这类抽象数据，学习或总结出内在的抽象规则和抽象层级，是难以攻克的一点。
+让机器能够达到小孩的智力，根本上需要具备抽象能力以及抽象数据基础两个条件。这是解决认知智能的一个方向之一，而目前现有的技术手段，还难以快速满足这两个条件。一方面，健全的抽象数据较难获取，抽象与概括的类型众多，既有对动作的抽象，也有对名词实体的抽象，也有对性状的抽象，抽象的角度以及抽象的粒度很难把握。另一方面，基于这类抽象数据，学习或总结出内在的抽象规则和抽象层级，是难以攻克的一点。  
 
-2、抽象知识图谱的构成
-1）抽象知识图谱体系架构
-![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/intro.png)
+2、抽象知识图谱的构成  
+1）抽象知识图谱体系架构  
+![image](https://github.com/liuhuanyong/AbstractKnowledgeGraph/blob/master/img/intro.png)  
 
-2）抽象知识图谱的抽象层级
-a) 名词性实体的抽象
-b) 性状性修饰的抽象
-c) 动作性事件的抽象
+2）抽象知识图谱的抽象层级  
+a) 名词性实体的抽象  
+b) 性状性修饰的抽象  
+c) 动作性事件的抽象  
 
 # 抽象图谱相关工作
-1）ConceptNet
+1）ConceptNet  
 
-2) Probase
+2) Probase  
 
-3) CN-probase
+3) CN-probase  
 
-4) HowNet
+4) HowNet  
 
-5) BigCilin
+5) BigCilin  
 
-6) BaSchema
+6) BaSchema  
 
 # 抽象图谱构建技术路线
 
