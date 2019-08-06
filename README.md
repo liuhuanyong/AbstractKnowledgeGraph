@@ -91,4 +91,4 @@ If any question about the project or me ,see https://liuhuanyong.github.io/
 1、我的github项目介绍：https://liuhuanyong.github.io    
 2、我的csdn博客：https://blog.csdn.net/lhy2014    
 3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
-4、懂预言者得天下，得语言者分天下，得知识逻辑者，游得天下。  
+4、懂语言者得天下，得语言者分天下，得知识逻辑者，游得天下。  
